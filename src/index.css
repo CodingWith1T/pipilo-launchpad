@@ -1,0 +1,88 @@
+body {
+    background: #efefef;
+}
+
+.progress-bar {
+    background: #c79500 !important;
+}
+
+.form-check-input:checked {
+    background-color: #c79500;
+    border-color: #c79500;
+}
+
+main {
+    margin-top: 0px !important;
+
+}
+
+[data-rk] .ju367v6 {
+    display: grid;
+}
+
+.box404 {
+    text-align: center;
+}
+
+.selectrouter button {
+    width: 100%;
+}
+
+.lockup .formdiv {
+    width: 100%;
+}
+
+.Router button {
+    width: 100%;
+}
+
+.Router .dropdown-menu.show {
+    width: 100%;
+    text-align: center;
+}
+
+.formbox {
+    padding-left: 35px;
+    padding-bottom: 35px;
+}
+
+.selectrouter .dropdown-menu.show {
+    width: 100%;
+    text-align: center;
+}
+
+.detailslist ul {
+    margin-left: -5px !important;
+}
+
+.detailslist li strong {
+    text-transform: capitalize;
+}
+
+@media only screen and (max-width: 860px) {
+
+    [data-rk] ._9pm4ki3 {
+        right: inherit !important;
+        left: inherit !important;
+        bottom: -100px !important;
+    }
+
+    [data-rk] .ju367vb3 {
+        width: 100% !important;
+    }
+
+}
+
+@media only screen and (max-width: 410px) {
+    [data-rk] ._1ckjpok6 {
+        width: 82vw !important;
+        left: -13px !important;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    [data-rk] ._1ckjpok6 {
+        width: 82vw !important;
+        left: -25px !important;
+    }
+}

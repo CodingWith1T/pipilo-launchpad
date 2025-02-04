@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Make sure the main content area can grow and take available space */
+  .App-content {
+    flex: 1;
+  }

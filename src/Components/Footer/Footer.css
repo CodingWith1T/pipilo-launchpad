@@ -1,0 +1,10 @@
+.footer{ box-shadow:none; background:#16191b; padding:50px 0px; text-align:center; border-radius:0px;}
+.footerlink a{ color:#fff; text-decoration:none; padding:0px 15px;font-size: 17px;}
+.footerlink a:hover{color:#f2d035;}
+.footerlink { color:#fff; margin:20px 0px 20px;}
+.container{max-width: 1270px;}
+.copyright{color:#fff;}
+.copyright a{color:#f2d035;text-decoration:none;}
+
+.socialicons{ background: none; box-shadow: none !important;  display: inline;}
+.socialicons a{ color: #fff;padding: 0px 6px; font-size: 23px;}

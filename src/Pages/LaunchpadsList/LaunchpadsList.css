@@ -1,0 +1,55 @@
+.cardbox {
+    width: 32%;
+    float: left;
+    margin-right:16px;
+    margin-left: 0px;
+	margin-bottom: 15px !important;
+	box-shadow:1px 1px 2px #e1e1e1;
+}
+
+.detailslist li span{float: right;color: #646464;}
+.detailslist{ padding-left:0px; margin-bottom:20px; }
+.card-img-top{width:55px; border:1px solid #ddd; border-radius:50px;}
+.logobox {
+    display: inline-block;
+    text-align: center;
+    padding:0px 0px;
+	    float: left;
+}
+.cardtop{ height:68px;}
+.live{ float:right; background:#d5f7e7; color:#39c696; font-size: 14px; font-weight: 400; padding: 4px 8px;
+    border-radius: 20px;margin-top: 8px;}
+.card-body .title{text-align: left; font-size:20px; text-transform: capitalize; margin:4px; font-weight:700;
+    margin-left: 0px; margin-bottom:11px;}
+.color{ color:#c79500;}
+.detailslist li strong{font-weight: 500;    color: #000;}
+.listsocial{ display:inline-block;width: 100%;text-align: left; background:none; box-shadow:none !important; padding:0px; margin-bottom: 16px; border-bottom: 1px solid #ebebeb; padding-bottom:20px !important;    border-radius: 0px; }
+.listsocial svg {
+    margin-bottom: 0px;
+    padding: 0px 5px;
+    color: #c79500;
+    font-size:26px;
+    border: 1px solid #f3e5bb;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.soft{color: #d19c00 !important; font-size: 18px; font-weight: 500;}
+.presale {color: #0fb972 !important;  font-size: 14px; text-transform: capitalize;}
+.listcard .card-body {padding-bottom: 18px;}
+.Softprice{padding-top: 0px !important; padding-bottom: 10px !important;}
+.detailslist li{padding:4px 0px; list-style: none; font-size:13px;}
+
+.liquidity{ margin-top:15px; color:#000; background:#f5f0e2; padding:5px 10px !important; margin-bottom:5px;border-radius: 4px;}
+.Locktime{background: #eaf5f1; padding:5px 10px !important;border-radius: 4px;}
+.listcard .btn-primary{padding: 5px 15px;}
+.pipilol{ background:#fff; padding:8px; margin-bottom:10px; border-radius:10px;}
+.lstdtl svg{margin-right: 0px;}
+
+.listingpage{ padding-top:50px; margin-bottom:50px;}
+.pagenumber{margin-bottom: 20px; margin-left: 2px;  margin-top: 5px;}
+#dropdown-currency{ background:#fff;}
+.pagination-controls{ margin-top:30px;}
+.pagination-controls .btn-secondary{ margin-right:10px;}
+
+
+

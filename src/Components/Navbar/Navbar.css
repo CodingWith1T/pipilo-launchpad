@@ -1,0 +1,39 @@
+.navbar-collapse {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* Optional: Adjust padding or margin for different screen sizes */
+  @media (max-width: 992px) {
+    .navbar-brand img {
+      width: 3rem;
+      
+    }
+  }
+
+
+.navbar button{ background:none; border:none;}
+#navbarNav .btn { background:none; border:none;}
+.connectionbutton button{background:#c79500 !important;}
+.mainmenu{padding: 0px 50px !important;}
+.collapse{display:block !important;}
+.fixed-top{position: inherit;}
+#navbarNav .btn{display: table;    font-size: 18px;}
+.connectionbutton{margin-top:0px;}
+.dropdown-menu.show { display: block; background: #fff; border: none; border-radius: 0px; margin:0px; padding:0px;}
+.topnav svg{color:#f3b600;}
+.dropdown-toggle::after{vertical-align: inherit;}
+.ju367vcl {border-color: #FFC107 !important;}
+
+@media only screen and (max-width: 600px) {
+  .topnav{ padding:20px 15px !important;}
+  #navbarNav .btn{width: 100%; text-align: left; border-bottom: 1px solid #3c3c3c; border-radius: 0px;}
+}
+
+
+
+
+
+
+

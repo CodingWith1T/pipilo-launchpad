@@ -1,0 +1,45 @@
+.formdiv {
+    width: 48%;
+    display: inline-grid;
+    margin-right: 20px;
+}
+
+.tokedisc {
+    text-align: left;
+}
+
+.formdiv:nth-child(1) {
+    width: 98%;
+}
+
+
+
+.card-title {
+    font-size: 28px;
+    text-transform: uppercase;
+    margin: 20px;
+    font-weight: 700;
+    margin-left: 0px;
+}
+
+textarea {
+    resize: none;
+}
+
+/* Hide the arrows in input[type="number"] */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Hide the arrows in Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+.formdiv2 textarea{ width:98%;}
+.progress{width:98%;}
+.Step4{ box-shadow:none;}
+.Step4 ul{margin-left: -13px; margin-bottom:30px;}
+.Unlock-Date{width: 98%;}
+

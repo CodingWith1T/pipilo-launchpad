@@ -1,0 +1,503 @@
+.socialicon {
+  float: left;
+  box-shadow: 1px 1px 31px #e7e7e7 !important;
+  padding: 10px;
+  background: #000;
+}
+
+.div1 {
+  float: left;
+  width: 45.3%;
+  box-shadow: none !important;
+  margin-left: 35px;
+}
+
+.contentbox {
+  padding: 0px;
+}
+
+.socialicon svg {
+  margin-bottom: 26px;
+  font-size: 22px;
+  color: #fff;
+}
+
+.div1 .card-title {
+  font-size: 30px !important;
+  font-weight: 700;
+  margin-bottom: 30px;
+  margin-top: 0px !important;
+}
+
+.box404 {
+  text-align: center;
+}
+
+.launchpad {
+  width: 200px;
+  float: left;
+  background: #cf9b00 !important;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #cf9b00 !important;
+  box-shadow: 1px 1px 10px #c7c7c7;
+}
+
+.exchange {
+  width: 160px;
+  float: left;
+  background: #cf9b00 !important;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.exchange:hover {
+  background: #000 !important;
+}
+
+.mainbox {
+  background: #fff;
+  padding-bottom: 60px !important;
+  padding-top: 20px;
+
+}
+
+.hometop {
+  border-radius: 20px;
+}
+
+.contentbox {
+  padding-bottom: 22px;
+  font-size: 17px;
+  text-align: justify;
+  line-height: 29px;
+}
+
+.card-body {
+  padding-bottom: 33px;
+}
+
+.div1 img {
+  border-radius: 20px;
+}
+
+.card {
+  border: none;
+  border-radius: 0px;
+}
+
+#dropdown-currency {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #000;
+}
+
+#router-dropdown {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #000;
+}
+
+.dropdown-item {
+  border-bottom: 1px solid #ddd;
+  padding: 11px 15px;
+}
+
+.dropdown-item:hover {
+  background: #fff8ef !important;
+  color: #000 !important;
+}
+
+.btn-primary {
+  background: #c79500;
+  border: none;
+}
+
+.btn-primary:hover {
+  background: #000;
+}
+
+.box404 {
+  background: #fff;
+  padding: 50px;
+}
+
+[data-rk] .ju367v9i {
+  background: #ad891f;
+}
+
+
+
+.homepage {
+  display: inline;
+}
+
+.Exchangebtn a {
+  background: none !important;
+  color: #cf9b00;
+  border: 2px solid #cf9b00;
+  margin-left: 13px;
+}
+
+.Exchangebtn a:hover {
+  background: #cf9b00 !important;
+  border: 2px solid #cf9b00 !important;
+}
+
+
+.hometop {
+  padding: 50px 22px !important;
+}
+
+.homepageimg {
+  margin-top: 8px;
+}
+
+.LaunchpadTitle {
+  text-align: center;
+  margin-bottom: 24px !important;
+  margin-right: 0px !important;
+  font-size: 30px !important;
+  color: #000;
+  margin-top: 50px !important;
+}
+
+.lunchpadsection {
+  background: #e9e1c7;
+  border-radius: 0px;
+  text-align: center;
+  box-shadow: none;
+}
+
+.lunchpadsection .cardbox {
+  width: 23%;
+  margin-right: 20px;
+  margin-left: 8px;
+  box-shadow: 1px 1px 5px #d3c8a2;
+  border-radius: 10px;
+}
+
+.launchpadlink {
+  text-align: center;
+  color: #000000;
+  font-size: 21px;
+}
+
+.lunchpadsection .contentbox {
+  padding-bottom: 23px;
+}
+
+.lunchpadsection .live {
+  font-size: 13px;
+  padding: 0px 8px;
+  margin-top: 6px;
+}
+
+.lunchpadsection svg {
+  color: #c79500;
+}
+
+.lunchpadsection .btn-primary {
+  box-shadow: 1px 1px 6px #d1d1d1;
+}
+
+.lunchpadsection .mb-4:nth-child(5) {
+  margin-right: 0px;
+}
+
+.lunchpadsection .detailslist li {
+  padding: 0px 0px;
+}
+
+
+.Pipitoolssection {
+  padding: 50px 0px 80px;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.pipitools {
+  text-transform: capitalize !important;
+  font-size: 32px !important;
+}
+
+.captionbox {
+  background: rgb(109, 88, 11);
+  background: -moz-linear-gradient(51deg, rgba(109, 88, 11, 1) 0%, rgba(207, 163, 0, 1) 100%);
+  background: -webkit-linear-gradient(51deg, rgba(109, 88, 11, 1) 0%, rgba(207, 163, 0, 1) 100%);
+  background: linear-gradient(51deg, rgba(109, 88, 11, 1) 0%, rgba(207, 163, 0, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6d580b", endColorstr="#cfa300", GradientType=1);
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.caption a {
+  text-decoration: none;
+}
+
+.caption img {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.captionbox h3 {
+  text-shadow: 1px 8px 3px #6c581b;
+}
+
+.container {
+  max-width: 1270px;
+}
+
+.Launchpadmain {
+  box-shadow: none;
+  background: #f4f4f4;
+  padding: 50px 0px;
+}
+
+.rightimg img {
+  width: auto;
+  float: right;
+}
+
+.Launchpad-last {
+  font-size: 43px !important;
+  margin-top: 40px !important;
+  text-transform: capitalize !important;
+}
+
+.Launchpadmain p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.pipitools span {
+  color: #bf9c00;
+}
+
+.launchpad:hover {
+  background: #000 !important;
+  border: 2px solid #000 !important;
+}
+
+.mainmenu {
+  padding: 0px 18px !important;
+}
+
+.captionbox {
+  box-shadow: 1px 1px 10px #c7c7c7;
+}
+
+#navbarNav .btn {
+  font-size: 16px;
+  padding: 0px 5px;
+}
+
+.dropdown-toggle::after {
+  margin-left: 2px;
+}
+
+.morelaunch {
+  text-align: center;
+  margin: 0px 0px 40px 0px;
+  clear: both;
+}
+
+
+@media only screen and (max-width: 880px) {
+  .homepage {
+    width: 78%;
+    margin-left: 20px;
+  }
+
+  .homepageimg {
+    margin-top: 50px;
+    width: 92%;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+
+  .homepage {
+    width: 78%;
+    margin-left: 20px;
+  }
+
+  .mainbox {
+    padding-bottom: 50px !important;
+  }
+
+  .homepageimg {
+    width: 90%;
+    margin-top: 20px;
+  }
+
+  .homepageimg img {
+    width: 100%;
+  }
+
+  .formdiv:nth-child(1) {
+    width: 100% !important;
+  }
+
+  .formdiv {
+    width: 100% !important;
+  }
+
+  .connectionbutton {
+    margin-top: 20px;
+  }
+
+  .Exchangebtn a {
+    margin-left: 10px !important;
+    margin-top: 0px;
+  }
+
+  .cardbox {
+    width: 100% !important;
+  }
+
+  .leftbox {
+    width: 100% !important;
+  }
+
+  .lunchpadsection .cardbox {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .Pipitoolssection .captionbox {
+    margin-bottom: 20px;
+  }
+
+  .rightimg img {
+    float: left;
+    margin-top: 40px;
+    width: 100%;
+  }
+
+  .container {
+    padding: 0px 30px;
+  }
+
+  .pipitools {
+    font-size: 23px !important;
+  }
+
+  .Launchpad-last {
+    font-size: 27px !important;
+    margin-bottom: 15px !important;
+  }
+
+  .footerlink a {
+    font-size: 15px;
+  }
+
+  #navbarNav .btn {
+    padding: 8px 8px;
+  }
+
+  .Pipitoolssection {
+    padding: 40px 0px 44px;
+  }
+
+  #navbarNav .btn {
+    width: 100%;
+    text-align: left;
+    border-bottom: 1px solid #3c3c3c;
+    border-radius: 0px;
+  }
+
+  .mainmenu {
+    padding: 22px 22px !important;
+  }
+
+  .formbox {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+  .progress {
+    width: 100% !important;
+  }
+
+  .iekbcc0 {
+    width: 100%;
+  }
+
+  .iekbcc0 {
+    border-radius: 7px;
+    text-align: center;
+    margin-bottom: 8px !important;
+  }
+
+  .card {
+    margin: 0px auto !important;
+    box-shadow: none !important;
+  }
+
+  .connectionbutton .iekbcc0 {
+    width: auto;
+    margin-bottom: 0px !important;
+  }
+
+  .footer .container {
+    padding: 0px 15px;
+  }
+
+  .App-content .container {
+    padding: 0px 15px;
+  }
+
+  .listingpage {
+    padding-top: 20px !important;
+  }
+
+  .topbutton .dropdown {
+    margin-bottom: 15px;
+  }
+
+  .lockpage {
+    padding-bottom: 50px !important;
+  }
+
+  .box404 {
+    padding: 30px;
+  }
+
+  .ju367v1s {
+    width: 100% !important;
+    display: inline !important;
+  }
+
+  .ju367v1s button {
+    margin-bottom: 2px !important;
+  }
+
+  .detailslist li span {
+    line-break: anywhere !important;
+  }
+
+  .Launchpadpage {
+    margin-top: 20px !important;
+  }
+
+  .titleforpage {
+    font-size: 25px !important;
+  }
+
+  ._12cbo8i6 {
+    margin-top: 8px !important;
+  }
+
+
+}
+
+@media only screen and (max-width: 380px) {
+  .homepage {
+    width: 74%;
+    margin-left: 20px;
+  }
+}
